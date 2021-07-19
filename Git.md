@@ -188,7 +188,7 @@ chmod u+w 文件夹名   (修改文件权限   r-4 w-2 x-1 u-所主 g-所组 o-�
 
 ​						【2】将文件添加到暂存区
 
-​									git add Demo.txt
+​									git add Demo.txt       git add ./*
 
 ​						【3】将暂存区的内容提交到本地库
 
